@@ -66,7 +66,7 @@ The data was analysed using Python and the following libraries:
 
 The project files are divided between the following folders:
 
-  1) Project Management: Project Brief and Data Dictionary.
+  1) Project Management: Project Brief.
     
   2) Data: Separated into two subfolders Original Data and Prepared Data. These contains the original data frames and the data frames after they have been cleaned and prepared for analysis respectively. (Data 
      files not uploaded to GitHub due to size.)
